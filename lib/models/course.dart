@@ -1,0 +1,13 @@
+import 'package:flutter/material.dart';
+
+class Course {
+  final String title;
+  final String description;
+  final IconData icon;
+
+  const Course({
+    required this.title,
+    required this.description,
+    required this.icon,
+  });
+}
