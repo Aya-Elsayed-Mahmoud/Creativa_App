@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819841175509",
+    "project_id": "creativa-app-a86a6",
+    "storage_bucket": "creativa-app-a86a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819841175509:android:a00c3988ec0e46a03f775c",
+        "android_client_info": {
+          "package_name": "com.example.creativa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJU336hHHnfseMykCpkFRNfBYOHskTJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
